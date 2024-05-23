@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 // Global variable x
 int x = 50;
 
